@@ -25,8 +25,8 @@ nav:
   - Accueil: index.md
   - Mon parcours: parcours.md
   - Mes intérêts: interets.md
-  - Cours:
-    - Index: cours.md
+  - Cours enseignés:
+    - Résumé: cours.md
     - Système embarqué: https://nbourre.github.io/0sx_notes_cours/
   - Tutoriels: tutoriels.md
   - Varia: varia.md
