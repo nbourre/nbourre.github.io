@@ -1,10 +1,10 @@
-# Mes interets
+# Mes intérêts
 
 ## Sujets principaux
 
-- Science informatique et methodes scientifiques appliquees.
-- Developpement logiciel lie aux sciences.
-- Low-level et comprehension fine des details.
+- Science informatique et méthodes scientifiques appliquées.
+- Développement logiciel lié aux sciences.
+- Low-level et compréhension fine des détails.
 
 ## Ce que j'aime transmettre
 

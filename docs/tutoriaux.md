@@ -1,14 +1,14 @@
-# Tutoriaux
+# Tutoriels
 
-## Thematiques
+## Thématiques
 
-- Developpement logiciel, outillage, et notions low-level.
+- Développement logiciel, outillage et notions low-level.
 
 ## YouTube
 
 - https://www.youtube.com/@NicolasBourre
 
-## Derniers tutoriaux
+## Derniers tutoriels
 
 - https://youtu.be/v7gknRcUwTs
 - https://youtu.be/d_mh-G7H0n0

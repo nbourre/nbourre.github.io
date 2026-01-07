@@ -1,21 +1,21 @@
 # Mon parcours
 
-## Pedigree
+## Pédigrée
 
-- Baccalaureat en informatique.
-- Maitrise en mathematique et informatique appliquees.
+- Baccalauréat en informatique.
+- Maîtrise en mathématique et informatique appliquées.
 
-## Experience professionnelle
+## Expérience professionnelle
 
-- CCTT en ingenierie (CSTPQ).
+- CCTT en ingénierie (CSTPQ).
 - CCTT en environnement (CNETE).
-- Firme specialisee en radar balistique (Infinition).
+- Firme spécialisée en radar balistique (Infinition).
 
 ## Enseignement
 
-- Enseignant en informatique depuis le debut des annees 2003.
+- Enseignant en informatique depuis le début des années 2000.
 
-## Approche pedagogique
+## Approche pédagogique
 
-Je privilegie la comprehension des details techniques et des bases
+Je privilégie la compréhension des détails techniques et des bases
 fondamentales, surtout pour le low-level.
