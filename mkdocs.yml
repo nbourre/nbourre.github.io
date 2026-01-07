@@ -1,0 +1,29 @@
+site_name: "Nicolas Bourre"
+site_description: "Enseignement, cours et tutoriaux en informatique."
+site_url: "https://nbourre.github.io/"
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - search.highlight
+    - search.suggest
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+
+nav:
+  - Accueil: index.md
+  - Mon parcours: parcours.md
+  - Mes intérêts: interets.md
+  - Cours: cours.md
+  - Tutoriaux: tutoriaux.md
+  - Varia: varia.md
