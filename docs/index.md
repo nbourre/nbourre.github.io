@@ -1,13 +1,11 @@
 # Accueil
 
-Bienvenue! Ce site regroupe mes cours, notes et tutoriels en informatique, destinés aux étudiants de niveau collégial et aux curieux qui souhaitent apprendre.
-
-## Cours enseignés
-- (Cours Développement de systèmes embarqués)[https://nbourre.github.io/0sx_notes_cours/]
-
-## Autres contenus
-- (Canal YouTube)[https://www.youtube.com/@NicolasBourre]
+Bienvenue!  
+Ce site regroupe mes **cours**, **notes** et **tutoriels** en informatique, principalement destinés aux étudiants de niveau collégial, mais aussi à toute personne curieuse de comprendre comment les systèmes informatiques fonctionnent réellement.
 
 ## Présentation rapide
 
-Je suis enseignant en informatique depuis 2003. Mon parcours est axé sur le low-level et la compréhension fine des détails techniques, avec un intérêt marqué pour les sciences et le développement logiciel qui s'y rattachent.
+Enseignant en informatique depuis 2003, mon parcours est axé sur la **programmation bas niveau (low-level)** et la **compréhension fine des détails techniques**.  
+Je m’intéresse particulièrement aux liens entre l’informatique et les **sciences**, ainsi qu’au développement logiciel appliqué à des contextes concrets.
+
+Mon approche vise à aller au-delà de l’utilisation des outils, afin de comprendre les principes qui les sous-tendent.

@@ -1,21 +1,46 @@
 # Mon parcours
 
-## Pédigrée
+## Parcours académique
 
-- Baccalauréat en informatique.
-- Maîtrise en mathématique et informatique appliquées.
+* **Diplôme d’études collégiales (DEC)** en *Sciences de la nature* — Cégep de Shawinigan
+* **Baccalauréat en informatique** — Université du Québec à Trois-Rivières
+* **Maîtrise en mathématiques et informatique appliquées** — Université du Québec à Trois-Rivières
+  * Sujet de mémoire : (*Détection de la somnolence au volant*)[https://depot-e.uqtr.ca/id/eprint/1295/1/030120528.pdf]
 
 ## Expérience professionnelle
 
-- CCTT en ingénierie (CSTPQ).
-- CCTT en environnement (CNETE).
-- Firme spécialisée en radar balistique (Infinition).
+* **Développeur logiciel** au CSTPQ
+  *(aujourd’hui (Solutions Novika)[https://www.novika.ca/fr/secteurs-activite])*
+
+  * Participation à des projets industriels, dont le développement de solutions pour
+    [systèmes d’étagères mobiles automatisées](https://www.montel.com/)
+* **Développeur logiciel** pour une firme d’évaluation immobilière
+* **Développeur logiciel** au [CNETE](https://www.cnete.qc.ca/)
+
+  * Réalisation de projets variés en développement logiciel et systèmes techniques
+* **Développeur spécialisé** pour des logiciels et *firmware* de **radar balistique** chez
+  [Infinition](https://www.infinition.com/)
+* **Enseignant en informatique** au Cégep de Shawinigan *(depuis 2003)*
 
 ## Enseignement
 
-- Enseignant en informatique depuis le début des années 2000.
+* Enseignant en informatique au niveau collégial depuis 2003
+* Conception de cours, laboratoires et projets en programmation, systèmes embarqués, robotique et développement logiciel, projets de recherche appliquée
+* Forte intégration de projets concrets et multidisciplinaires
 
 ## Approche pédagogique
 
-Je privilégie la compréhension des détails techniques et des bases
-fondamentales, surtout pour le low-level.
+Je privilégie une approche axée sur :
+
+* la **compréhension des bases fondamentales**,
+* l’analyse des **détails techniques**,
+* le développement d’une pensée rigoureuse, notamment en **programmation bas niveau (low-level)**.
+
+J’accorde également une grande importance à une **approche interdisciplinaire**, où l’informatique est mise en relation avec d’autres domaines, notamment les **sciences**.
+Par exemple, j’intègre des concepts de mathématiques, de physique ou de sciences naturelles dans des projets de programmation afin de :
+
+* donner un **sens concret** aux notions abstraites,
+* montrer comment l’informatique sert d’outil pour **modéliser, mesurer et analyser** des phénomènes réels,
+* favoriser le transfert de connaissances entre les disciplines.
+
+Cette approche permet aux étudiants de mieux comprendre le rôle de l’informatique comme **outil transversal**, au service de la résolution de problèmes complexes et du monde réel.

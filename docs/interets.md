@@ -2,10 +2,17 @@
 
 ## Sujets principaux
 
-- Science informatique et méthodes scientifiques appliquées.
-- Développement logiciel lié aux sciences.
-- Low-level et compréhension fine des détails.
+- **Informatique et méthodes scientifiques appliquées**  
+  *(modélisation, analyse, expérimentation)*
 
-## Ce que j'aime transmettre
+- **Développement de jeux vidéo**  
+  *(mécaniques de jeu, architecture logicielle, conception des systèmes)*
 
-- Rigueur, logique et bases solides.
+- **Vision par ordinateur**  
+  *(analyse d’images, traitement du signal, applications scientifiques — sujet de maîtrise)*
+
+- **Développement logiciel appliqué aux sciences**  
+  *(outils, visualisation de données, systèmes techniques)*
+
+- **Programmation bas niveau (low-level) et systèmes embarqués**  
+  *(microcontrôleurs, interaction matériel/logiciel)*
