@@ -2,8 +2,8 @@
 
 ## Ressources utiles
 
-- A completer: outils, lectures, references.
+- A compléter: outils, lectures, références.
 
-## Projets et experiences
+## Projets et expériences
 
-- A completer: projets personnels ou etudiants a mettre en valeur.
+- A compléter: projets personnels ou étudiants à mettre en valeur.

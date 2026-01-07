@@ -1,5 +1,5 @@
-site_name: "Nicolas Bourre"
-site_description: "Enseignement, cours et tutoriaux en informatique."
+site_name: "Nicolas Bourré"
+site_description: "Enseignement, cours et tutoriels en informatique."
 site_url: "https://nbourre.github.io/"
 
 theme:
@@ -19,11 +19,21 @@ markdown_extensions:
   - admonition
   - toc:
       permalink: true
+  - attr_list
 
 nav:
   - Accueil: index.md
   - Mon parcours: parcours.md
   - Mes intérêts: interets.md
-  - Cours: cours.md
-  - Tutoriaux: tutoriaux.md
+  - Cours:
+    - Index: cours.md
+    - Système embarqué: https://nbourre.github.io/0sx_notes_cours/
+  - Tutoriels: tutoriels.md
   - Varia: varia.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@NicolasBourre
+    - icon: fontawesome/brands/github
+      link: https://github.com/nbourre/
