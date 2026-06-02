@@ -37,6 +37,7 @@ Les gaussiennes ont une propriété extraordinaire : elles se combinent de faço
 **Addition de variables indépendantes** — si on additionne deux variables aléatoires, leurs moyennes et variances s'additionnent :
 
 $$\mu_{x_1 + x_2} = \mu_{x_1} + \mu_{x_2}$$
+
 $$\sigma^2_{x_1 + x_2} = \sigma^2_{x_1} + \sigma^2_{x_2}$$
 
 **Mise à l'échelle** — si on multiplie par une constante *a*, la variance est multipliée par *a²* :
