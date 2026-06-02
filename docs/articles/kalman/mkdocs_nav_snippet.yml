@@ -1,0 +1,64 @@
+# ----------------------------------------------------------------
+# Extrait à ajouter dans ton mkdocs.yml existant sous la clé nav:
+# ----------------------------------------------------------------
+#
+# nav:
+#   - ...tes sections existantes...
+#   - Filtre de Kalman:
+#       - articles/kalman/index.md
+#       - articles/kalman/01_variables_aleatoires.md
+#       - articles/kalman/02_distribution_gaussienne.md
+#       - articles/kalman/03_variance_qualite.md
+#       - articles/kalman/04_fusion_donnees.md
+#       - articles/kalman/05_filtre_1d.md
+#       - articles/kalman/06_matrice_covariance.md
+#       - articles/kalman/07_espace_etat.md
+#       - articles/kalman/08_filtre_multivarie.md
+#
+# ----------------------------------------------------------------
+# Si tu crées un site MkDocs autonome, voici un mkdocs.yml complet :
+# ----------------------------------------------------------------
+
+site_name: Filtre de Kalman — Guide pratique avec MakeBlock Ranger
+site_description: >
+  Tutoriel complet sur le filtre de Kalman en français, avec exemples
+  Arduino pour le robot MakeBlock Ranger (encodeurs, MPU-6050, sonar).
+site_author: Nicolas Bourré
+
+docs_dir: .   # Ajuste selon ta structure (ex: docs/kalman si intégré)
+
+theme:
+  name: material
+  language: fr
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: blue
+      accent: light blue
+
+markdown_extensions:
+  - admonition          # Pour les blocs !!! note, !!! tip, !!! warning
+  - pymdownx.highlight  # Coloration syntaxique du code
+  - pymdownx.superfences
+  - pymdownx.arithmatex:  # Rendu des équations LaTeX
+      generic: true
+  - tables
+
+extra_javascript:
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+nav:
+  - Accueil: index.md
+  - 1. Variables aléatoires: 01_variables_aleatoires.md
+  - 2. Distribution gaussienne: 02_distribution_gaussienne.md
+  - 3. Variance et qualité des capteurs: 03_variance_qualite.md
+  - 4. Fusion de données: 04_fusion_donnees.md
+  - 5. Filtre de Kalman 1D: 05_filtre_1d.md
+  - 6. Matrice de covariance: 06_matrice_covariance.md
+  - 7. Représentation espace-état: 07_espace_etat.md
+  - 8. Filtre de Kalman multivarié: 08_filtre_multivarie.md

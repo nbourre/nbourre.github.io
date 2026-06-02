@@ -30,6 +30,17 @@ nav:
     - Système embarqué: https://nbourre.github.io/0sx_notes_cours/
     - Veille technologique: https://nbourre.github.io/1sh_notes_cours/
   - Ateliers pour secondaire: https://nbourre.github.io/ateliers_secondaires/
+  - Articles:
+    - Filtre de Kalman:
+      - articles/kalman/index.md
+      - articles/kalman/01_variables_aleatoires.md
+      - articles/kalman/02_distribution_gaussienne.md
+      - articles/kalman/03_variance_qualite.md
+      - articles/kalman/04_fusion_donnees.md
+      - articles/kalman/05_filtre_1d.md
+      - articles/kalman/06_matrice_covariance.md
+      - articles/kalman/07_espace_etat.md
+      - articles/kalman/08_filtre_multivarie.md
   - Tutoriels: tutoriels.md
   - Varia: varia.md
 
