@@ -5,6 +5,7 @@
 Suppose que deux capteurs mesurent la même chose au même moment :
 
 $$y_1 = x + e_1, \quad e_1 \sim \mathcal{N}(0, \sigma_1^2)$$
+
 $$y_2 = x + e_2, \quad e_2 \sim \mathcal{N}(0, \sigma_2^2)$$
 
 Quelle est la meilleure estimation de *x* ?
