@@ -33,8 +33,10 @@ nav:
   - Mes intérêts: interets.md
   - Cours enseignés:
     - Résumé: cours/index.md
-    - Système embarqué: https://nbourre.github.io/0sx_notes_cours/
-    - Veille technologique: https://nbourre.github.io/1sh_notes_cours/
+    - S2 - Système embarqué: https://nbourre.github.io/0sx_notes_cours/
+    - S3 - Robotique: https://nbourre.github.io/1sx_cours_notes/
+    - S5 - Programmation jeux et multimédia: https://nbourre.github.io/0sw_notes_cours/
+    - S6 -Veille technologique: https://nbourre.github.io/1sh_notes_cours/
   - Ateliers pour secondaire: https://nbourre.github.io/ateliers_secondaires/
   - Articles:
     - Filtre de Kalman:
